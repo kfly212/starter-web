@@ -1,6 +1,6 @@
 # Starter Web Project
 This is a new like for rebasing example
-
+More changes from feature branch2
 This is a simple website project for showing how to use Git nad Github togeather.
 ## Introduction
 
