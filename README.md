@@ -15,5 +15,7 @@ This is a simple web project, deployment can be on any web server or evel local 
 
 ## How to Contribute
 
+Please fork this repsository and then issue  Pull Requests for review.
+
 ## Copyright
 Git.Training
