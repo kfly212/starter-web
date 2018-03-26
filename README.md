@@ -1,4 +1,5 @@
 # Starter Web Project
+This is a new like for rebasing example
 
 This is a simple website project for showing how to use Git nad Github togeather.
 ## Introduction
