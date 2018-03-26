@@ -3,6 +3,7 @@
 
 # TEAM
 
+	Kevin Flynn	kkk@gmail.com	@kevin
     <name> -- <role> -- <twitter>
 
 # THANKS
